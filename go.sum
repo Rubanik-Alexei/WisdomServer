@@ -1,0 +1,4 @@
+github.com/bwesterb/go-pow v1.0.0 h1:QZ+LZMmZZYjqesKIr4nFCKAGIpLPePO/klHVSlzbvbo=
+github.com/bwesterb/go-pow v1.0.0/go.mod h1:Px3tTFyb+vzbrJYKBqyrxp+3MY8KRP6mbAk74iayAyY=
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
