@@ -1,5 +1,6 @@
 version: "3.7"
 
+## Didn't build correctly
 services:
   server:
     build:
